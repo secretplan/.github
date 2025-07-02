@@ -1,2 +1,3 @@
-# .github
-GitHub Metadata (Special magic GitHub repo to surface things like README)
+# Secret Plan
+It's a Secret to Everybody
+http://secretplan.ca
