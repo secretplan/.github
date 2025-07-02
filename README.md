@@ -1,3 +1,1 @@
-# Secret Plan
-It's a Secret to Everybody
-http://secretplan.ca
+This is a magic github repo that causes things to surface on the main team page
